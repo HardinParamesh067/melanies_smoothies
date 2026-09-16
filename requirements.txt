@@ -1,9 +1,3 @@
-name: smoothies-app
-
-channels:
-  - conda-forge
-
-dependencies:
-  - python=3.11
-  - streamlit
-  - snowflake-snowpark-python
+#requirements.txt
+snowflake-snowpark-python
+streamlit
